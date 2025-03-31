@@ -8,11 +8,6 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-
-
-
-
-
 namespace Laborki5
 {
     internal class Program
